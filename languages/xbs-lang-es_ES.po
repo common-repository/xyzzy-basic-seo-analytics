@@ -1,0 +1,168 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: XYZZY Basic SEO\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-11-13 17:33+0000\n"
+"PO-Revision-Date: 2019-11-15 16:42+0000\n"
+"Last-Translator: XYZZY <info@xyzzyestudioweb.com>\n"
+"Language-Team: Español\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3"
+
+#: inc/functions/admin-menu.php:7 inc/functions/admin-menu.php:18
+msgid "XYZZY Basic SEO & Analytics"
+msgstr "XYZZY Basic SEO & Analytics"
+
+#. Titulo de la página
+#: inc/functions/admin-menu.php:8
+msgid "SEO & Analytics"
+msgstr "SEO & Analytics"
+
+#: inc/functions/admin-menu.php:19 inc/functions/admin-menu.php:45
+msgid "Ajustes"
+msgstr "Ajustes"
+
+#: inc/functions/admin-menu.php:27 inc/functions/admin-menu.php:28
+msgid "Acerca de"
+msgstr "Acerca de"
+
+#: inc/functions/admin-menu.php:52
+msgid "Código Analitycs"
+msgstr "Código Analitycs"
+
+#: inc/functions/admin-menu.php:60
+msgid "Palabras clave base"
+msgstr "Palabras clave base"
+
+#: inc/functions/admin-menu.php:68
+msgid "Meta descripción base"
+msgstr "Meta descripción base"
+
+#: inc/functions/admin-menu.php:78
+msgid "Puedes ajustar las propiedades generales desde aquí"
+msgstr "Puedes ajustar las propiedades generales desde aquí"
+
+#: inc/functions/admin-menu.php:83
+msgid "Ej. UA-123456789"
+msgstr "Ej. UA-123456789"
+
+#: inc/functions/admin-menu.php:89
+msgid "Ej. palabra clave 1, palabra clave 2, palabra clave 3"
+msgstr "Ej. palabra clave 1, palabra clave 2, palabra clave 3"
+
+#: inc/functions/admin-menu.php:95
+msgid "Escribe aquí la descripción base del sitio"
+msgstr "Escribe aquí la descripción base del sitio"
+
+#: inc/functions/admin-menu.php:109
+msgid "Error: utiliza un máximo de 10 palabras clave separadas por comas"
+msgstr "Error: utiliza un máximo de 10 palabras clave separadas por comas"
+
+#: inc/views/xbs-instructions.php:3
+msgid ""
+"XYZZY Basic SEO & Analytics es un sencillo y ligero plugin de SEO integrado "
+"sobre el core de Wordpress que, a diferencia de otras opciones, solo incluye "
+"lo indispensable para tener una web optimizada para el SEO. Sin código extra:"
+" solo aquello que necesitas."
+msgstr ""
+"XYZZY Basic SEO & Analytics es un sencillo y ligero plugin de SEO integrado "
+"sobre el core de Wordpress que, a diferencia de otras opciones, solo incluye "
+"lo indispensable para tener una web optimizada para el SEO. Sin código extra:"
+" solo aquello que necesitas."
+
+#: inc/views/xbs-instructions.php:4
+msgid ""
+"Está desarrollado bajo liencia GPL desde <a href=\"https://www."
+"xyzzyestudioweb.com\" target=\"_blank\">XYZZY estudio web</a>. Si te gusta, "
+"quieres contribuir o comentarnos lo que quieras, puedes escribirnos a <a "
+"href=\"mailto:info@xyzzyestudioweb.com\">info@xyzzyestudioweb.com</a>"
+msgstr ""
+"Está desarrollado bajo liencia GPL desde <a href=\"https://www."
+"xyzzyestudioweb.com\" target=\"_blank\">XYZZY estudio web</a>. Si te gusta, "
+"quieres contribuir o comentarnos lo que quieras, puedes escribirnos a <a "
+"href=\"mailto:info@xyzzyestudioweb.com\">info@xyzzyestudioweb.com</a>"
+
+#: inc/views/xbs-instructions.php:6
+msgid "¿Por qué utilizamos meta keywords?"
+msgstr "¿Por qué utilizamos meta keywords?"
+
+#: inc/views/xbs-instructions.php:7
+msgid ""
+"Si bien es cierto que Google ha dejado más que claro que las keywords no se "
+"tienen en cuenta en el posicionamiento, creemos que representan una buena "
+"base visual a la hora de sintetizar, ayudando de este modo a generar buenas "
+"descripciones SEO. Por otro lado, el atributo 'news_keywords' si que es "
+"tenido en cuenta por Google a la hora de incluir las webs sindicadas en "
+"Google News, con un límite de diez palabras clave."
+msgstr ""
+"Si bien es cierto que Google ha dejado más que claro que las keywords no se "
+"tienen en cuenta en el posicionamiento, creemos que representan una buena "
+"base visual a la hora de sintetizar, ayudando de este modo a generar buenas "
+"descripciones SEO. Por otro lado, el atributo 'news_keywords' si que es "
+"tenido en cuenta por Google a la hora de incluir las webs sindicadas en "
+"Google News, con un límite de diez palabras clave."
+
+#: inc/views/xbs-instructions.php:8
+msgid ""
+"Por estos motivos, nuestro plugin permite un máximo de diez palabras clave. "
+"Pero si no quieres que estén basta con que dejes vacío el correspondiente "
+"campo de texto :)"
+msgstr ""
+"Por estos motivos, nuestro plugin permite un máximo de diez palabras clave. "
+"Pero si no quieres que estén basta con que dejes vacío el correspondiente "
+"campo de texto :)"
+
+#: inc/views/xbs-instructions.php:10
+msgid "¿Cómo se que funciona?"
+msgstr "¿Cómo se que funciona?"
+
+#: inc/views/xbs-instructions.php:11
+msgid ""
+"Una vez añadido tu código de Analytics, deberías poder empezar a recabar los "
+"datos de tu sitio web desde el servicio de Google."
+msgstr ""
+"Una vez añadido tu código de Analytics, deberías poder empezar a recabar los "
+"datos de tu sitio web desde el servicio de Google."
+
+#: inc/views/xbs-instructions.php:12
+msgid ""
+"En cuanto a las descripciones y palabras clave, si entras en tu web e "
+"inspeccionas el código: deberías encontrar tus textos dentro de la etiqueta "
+"head"
+msgstr ""
+"En cuanto a las descripciones y palabras clave, si entras en tu web e "
+"inspeccionas el código: deberías encontrar tus textos dentro de la etiqueta "
+"head"
+
+#: inc/views/xbs-instructions.php:13
+msgid "Si tienes dudas: siempre puedes preguntarnos :)"
+msgstr "Si tienes dudas: siempre puedes preguntarnos :)"
+
+#: inc/views/xbs-instructions.php:15
+msgid "Si te ha gustado este plugin no olvides dejarnos una reseña."
+msgstr "Si te ha gustado este plugin no olvides dejarnos una reseña."
+
+#: inc/views/xbs-instructions.php:16
+msgid "Happy Coding!! :))"
+msgstr "Happy Coding!! :))"
+
+#. Description of the plugin
+msgid ""
+"XYZZY Basic SEO & Analytics es un sencillo y ligero plugin con el que "
+"integrar Analytics y los metadatos SEO en nuestra web"
+msgstr ""
+"XYZZY Basic SEO & Analytics es un sencillo y ligero plugin con el que "
+"integrar Analytics y los metadatos SEO en nuestra web"
+
+#. Author of the plugin
+msgid "XYZZY estudio web"
+msgstr "XYZZY estudio web"
+
+#. Author URI of the plugin
+msgid "https://www.xyzzyestudioweb.com"
+msgstr "https://www.xyzzyestudioweb.com"
